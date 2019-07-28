@@ -1,4 +1,2 @@
-# gulp-starter-finchzet
-Сборка Gulp4 Pug+SCSS
-
-h1 Стартовый шаблон by finchdev
+# Стартовый шаблон by finchdev
+Используется связка Gulp + Pug + SCSS + BrowserSync
